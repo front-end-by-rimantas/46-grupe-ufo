@@ -4,8 +4,7 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "dev": "dead-server --host=localhost --port=4605",
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "dev": "dead-server --host=localhost --port=4605"
     },
     "keywords": [],
     "author": "Rimantas (https://github.com/belauzas)",
